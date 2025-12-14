@@ -19,3 +19,4 @@
 ## Surprising and funny
 
 - [eslint-plugin-arithmetic](https://github.com/JonnyBurger/eslint-plugin-arithmetic)
+- https://jsfuck.com/
